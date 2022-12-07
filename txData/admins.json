@@ -1,0 +1,51 @@
+[
+  {
+    "name": "Drifter",
+    "master": true,
+    "password_hash": "$2a$11$zwxuzBIgA8k8R.ulWHjpPuxBVUsiYWSfqazN6AG14Et2O.vYy7hWy",
+    "providers": {
+      "citizenfx": {
+        "id": "Drifter",
+        "identifier": "fivem:71130",
+        "data": {
+          "sub": "fe3820cdf1817567aeb3a93f5d83ef0c",
+          "nameid": "https://forum.cfx.re/internal/user/71130",
+          "name": "Drifter",
+          "picture": "https://forum.cfx.re/user_avatar/forum.cfx.re/drifter/256/229281_2.png",
+          "profile": "https://forum.cfx.re/u/Drifter"
+        }
+      }
+    },
+    "permissions": []
+  },
+  {
+    "name": "Adam",
+    "master": false,
+    "password_hash": "$2a$11$iwldzXoObVZMxQJ0p1bP8.f0hVuNEHOJTwtxsovTmG0yPcLECw0.O",
+    "providers": {
+      "citizenfx": {
+        "id": "AdamSGH",
+        "identifier": "fivem:793868",
+        "data": {}
+      }
+    },
+    "permissions": [
+      "all_permissions"
+    ]
+  },
+  {
+    "name": "ItzRusky",
+    "master": false,
+    "password_hash": "$2a$11$ZDF9lx6I5N/Xg.38IkNS2uDTc.O0X569ryyq90/lGdnPchIuCUy6S",
+    "providers": {
+      "citizenfx": {
+        "id": "ItzRusky",
+        "identifier": "fivem:2964839",
+        "data": {}
+      }
+    },
+    "permissions": [
+      "all_permissions"
+    ]
+  }
+]
